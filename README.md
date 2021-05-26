@@ -20,3 +20,5 @@ Technical features of the program:
 	• Polymorphism is used to save shapes in the scene collection and to work with them.
 	• Virtual methods are used in calculating area and perimeter, drawing shapes, and checking the content of a point in a figure.
 	• The program uses the System.Drawing functionality to render shapes.
+	• LINQ is used to select the figure.
+	
